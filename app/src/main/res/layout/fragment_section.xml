@@ -4,19 +4,11 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
     <TextView
+        android:id="@+id/tv_count"
         android:background="#e49992"
         android:gravity="center"
         android:textSize="20sp"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:text="This is first section"/>
-    <Button
-        android:id="@+id/section_start_activity"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:text="start second activity"/>
+        android:layout_height="match_parent"/>
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="50dp"/>
 </LinearLayout>

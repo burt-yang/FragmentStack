@@ -4,14 +4,11 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
     <TextView
-        android:background="#e49992"
+        android:background="#f0f"
         android:gravity="center"
         android:textSize="20sp"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:text="This is third section"/>
+        android:layout_height="match_parent"
+        android:text="This is replace fragment"/>
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="50dp"/>
 </LinearLayout>
